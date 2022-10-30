@@ -1,5 +1,4 @@
 """
-
 NLP, assignment 4, 2021 - Omer Keidar
 
 In this assignment you will implement a Hidden Markov model and an LSTM model
